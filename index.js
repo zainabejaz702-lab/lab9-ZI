@@ -11,7 +11,6 @@
  * results to the console.
  *
  * Notes / Bugs:
- * - Make sure LATITUDE and LONGITUDE are set to your current location.
  * - This program requires internet access to contact the Open-Meteo API.
  * - If the API is unavailable or the request fails, an error message is shown.
  ******************************************************************************/
