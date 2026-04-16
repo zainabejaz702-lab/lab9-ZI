@@ -17,8 +17,8 @@
 
 // Store the current latitude and longitude.
 // Replace these values with your actual current coordinates.
-const LATITUDE = 43.0389;
-const LONGITUDE = -87.9065;
+const LATITUDE = 51.5074;
+const LONGITUDE = -0.1278;
 
 /**
  * Returns a temperature label based on Fahrenheit.
